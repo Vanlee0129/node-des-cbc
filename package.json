@@ -1,0 +1,20 @@
+{
+  "name": "node-des-cbc",
+  "version": "1.0.0",
+  "description": "node版des-cbc加解密",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanlee0129/node-des-cbc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanlee0129/node-des-cbc/issues"
+  },
+  "homepage": "https://github.com/Vanlee0129/node-des-cbc#readme"
+}
