@@ -2,7 +2,7 @@
   "name": "node-des-cbc",
   "version": "1.0.0",
   "description": "node版des-cbc加解密",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
